@@ -1,0 +1,2164 @@
+[
+  {
+    "task": "Create, edit, and publish event pages in under 10 minutes",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca09-78b97d334f64c7c40b63b891"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Configure ticket types (free, paid, tiered) with capacity limits",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca09-5b22b93f0aea9a1e59431f66"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "build management flow for waitlists and set refund policies",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0a-6825625171d3483a218fcef0"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Customize registration forms",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0a-7ae2ceac157512a967289f23"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Duplicate events",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0a-504004857871fe362c746d8a"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Export attendee lists",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0a-47bc11814de32a3911206de0"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Generate QR-based digital tickets",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0b-504b8d5530ebd52f7b935729"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Email ticket delivery with 99% SLA",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0b-1356931837f35e717945888d"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Mobile-friendly ticket access",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0c-384e2c0c7d39c97e2b996f99"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Real-time check-in via QR scanning or manual entry",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0c-0323b337502864c55783b871"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Track attendance in real-time",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0c-77b954356c27fca35feea209"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Stripe Connect integration for payment acceptance",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0d-37936e2373f527e81b95dd91"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Apply 3% platform fee on ticket sales",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0d-33a0b0c82967d0d314e42ce6"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Process weekly bank transfers (ACH/SEPA/local equivalents)",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0d-6df665fe149ef2d51492dcd9"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Hold payouts for 14 days post-event for chargeback windows",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0d-52e775db6481480f4aa00c1b"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Enforce minimum payout threshold with rollover to next cycle",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0e-55d0f7ea0a9b4b931cf3a579"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Withhold payouts if organizer has open disputes or fraud flags",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0e-0e33d27a3196b5ea4f93aa8a"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Build organizer capability to view payout status (pending, held, released) for each transaction",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0e-675a625d7ddb44ba524eb37d"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Implement rule to prevent payouts if organizer account has unresolved disputes or fraud flags",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0e-5c3f5f34741a95c90052104f"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Display expected payout release date based on hold rules",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0f-327497b3261ca49a19a32403"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Block refund requests after event check-in based on attendance records",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0f-77b932fc46c69b2a7c672f2d"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Process refunds within 5-7 business days",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0f-0d150c8238b087ac405cb685"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Flag and block duplicate refund requests",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca0f-68b678731e5bd6b178812704"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Trigger manual review for refunds requested within 24 hours of event",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca10-571ee5ec3ba919f27b7a1954"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Allow admin override of organizer decisions in dispute escalation",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca10-72bf0d81220166ab1093a4e1"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Log fraud patterns for risk scoring",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca10-64c5fa4e06682d6c06eef133"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Public event listings with featured events section",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca10-02939e871906616d5796cc8b"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Search and filter by category, date, and location",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca11-60b43e8276a640aa266bf36b"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Sort results by date and popularity",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca11-77c16ef74fe9177913238694"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Generate shareable event links",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca12-267277637aa23431183791f3"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "implement support for up to 10,000 attendees per event",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca12-64225fbd45be059a4ae69161"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Verify identity via government ID",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca12-7eb2da8939a8dd20106d45b7"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Verify business registration documents",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca12-571a3bf62797c9072f33ac10"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Validate payment methods",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca13-0ed0ac150c6c1e411d6fd486"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Perform risk scoring and approval workflow",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca13-4efb1d7771eb76fe7b1d7038"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Assign status: Pending, Approved, Suspended, or Rejected",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca13-262fb8be56a79bc16e877f88"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Automatically flag prohibited categories (illegal activities, hate speech, deceptive events, high-risk financial products)",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca14-1619c7b35d0705a517640b94"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Manually review flagged events within 24 hours",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca14-0785d6753c1557fb594d1169"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Notify organizers of removal with reason",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca14-553f984f511f1948302a19f0"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Provide organizer appeal process with 5 business day response",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca14-69adec6a537835e5261244fe"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Enforce escalating actions: warning, event removal, account suspension",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca15-44f0cf0d59b586996a39fe8d"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Implement temporary (30-day) and permanent suspension types",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca15-26dc662c0cdf7d811bd863bc"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Require violation acknowledgment and policy compliance for reinstatement",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca16-2836cd062ef749be73888a67"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Provide appeal process within 14 days with 5 business day admin review",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca16-58627c3e26f89b4e264adf92"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Maintain read-only access to historical data during suspension",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca16-1bf7dff3517a8e3a4af1052c"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  },
+  {
+    "task": "Process payouts for pre-suspension events normally",
+    "payload": {
+      "title": null,
+      "feature": 123,
+      "story": [
+        "wrong",
+        "type"
+      ],
+      "actor": null,
+      "task_type": {
+        "bad": "shape"
+      }
+    },
+    "response_status": 200,
+    "response_valid": true,
+    "response_issues": [],
+    "response_body": {
+      "args": {},
+      "data": "{\"title\": null, \"feature\": 123, \"story\": [\"wrong\", \"type\"], \"actor\": null, \"task_type\": {\"bad\": \"shape\"}}",
+      "files": {},
+      "form": {},
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, zstd",
+        "Content-Length": "105",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "User-Agent": "python-requests/2.33.1",
+        "X-Amzn-Trace-Id": "Root=1-69e3ca16-0bbd9a8d1f5092fc29219fe2"
+      },
+      "json": {
+        "actor": null,
+        "feature": 123,
+        "story": [
+          "wrong",
+          "type"
+        ],
+        "task_type": {
+          "bad": "shape"
+        },
+        "title": null
+      },
+      "origin": "72.76.119.16",
+      "url": "https://httpbin.org/post"
+    }
+  }
+]

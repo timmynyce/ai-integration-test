@@ -1,0 +1,321 @@
+# Product Requirement Document
+
+Product Name: EventFlow
+
+## Overview
+EventFlow is a web-based event management platform designed for small to mid-sized organizations to create, manage, and monetize events. It reduces operational complexity while increasing attendance and revenue through built-in discovery, ticketing, and analytics.
+
+## Goals
+- Launch events in under 10 minutes
+- Increase ticket conversion rates by 20%
+- Reduce manual event management work by 50%
+- Support up to 10,000 attendees per event (V1)
+
+---
+
+## Success Metrics
+
+### Launch Goals (V1)
+- Ticket conversion rate improvement: +20%
+- Event creation completion rate: 80% within 10 minutes
+- Platform supports 10,000 attendees per event
+- Concurrent capacity: 500+ users per event
+
+### Ongoing Metrics
+- Monthly active organizers
+- Total events created
+- Total revenue processed
+- Organizer retention rate
+- Payment success rate
+- Refund rate
+- Customer support volume
+
+---
+
+## Target Users
+- Small businesses
+- Nonprofits
+- Community organizations
+- Event managers at SMBs
+
+---
+
+## Core Features
+
+### Organizer Features
+- Create/edit/publish event pages
+- Configure ticket types (free, paid, tiered)
+- Set capacity limits and manage waitlists
+- Accept payments via Stripe
+- Export attendee lists
+- Duplicate events
+- Customize registration forms
+- Define refund policies and windows
+- Manage refund requests
+- Track payouts and reporting
+
+### Attendee Features
+- Discover events via search and browsing
+- Register and purchase tickets
+- Receive digital tickets
+- Request refunds within defined window
+- Receive notifications and updates
+
+### Admin Features
+- Platform-wide event management
+- Revenue and attendance reporting
+- Fraud monitoring and enforcement
+- Organizer approval and verification
+- Refund dispute escalation
+- Audit logs and compliance tracking
+
+---
+
+## Organizer Verification & Onboarding
+- Identity verification (government ID)
+- Business verification (registration docs)
+- Payment method validation
+- Risk scoring and approval workflow
+- Status: Pending / Approved / Suspended / Rejected
+
+---
+
+## Event Discovery
+- Public listings
+- Featured events
+- Search + filters (category, date, location)
+- Sorting (date, popularity)
+- Shareable event links
+
+---
+
+## Ticketing & Delivery
+- QR-based digital tickets
+- Email delivery
+- Mobile-friendly access
+- Future: mobile wallet support
+
+---
+
+## Attendee Communication
+- Confirmation emails
+- Reminder emails (24h / 1h)
+- Refund notifications
+- Email SLA: 99% delivery
+
+---
+
+## Check-in System
+- QR scanning
+- Manual check-in
+- Real-time tracking
+
+---
+
+## Payments & Pricing Model
+
+### Payment Processing
+- Stripe Connect integration
+- Platform fee: 3% of ticket value
+
+### Payout Method & Processing
+- Bank transfers (ACH / SEPA / local equivalents)
+- Verification required before payouts
+- Weekly payouts
+- Minimum payout threshold enforced
+- Failed payouts trigger notifications and retries
+
+---
+
+## Refund Processing & Dispute Resolution
+- Refund SLA: 5–7 business days
+- Organizer-controlled approval workflow
+- Admin escalation available
+- Full audit logging of decisions
+- Chargeback handling and response system
+
+---
+
+## Data Retention & Compliance
+- Data retained for 7 years
+- GDPR / CCPA compliance
+- Data deletion within 30 days (with legal exceptions)
+
+---
+
+## Requirements
+- Support up to 10,000 attendees per event
+- Handle 500+ concurrent users
+- Provide real-time reporting
+- Ensure payment and data security compliance
+- Maintain system audit logs
+
+---
+
+## Constraints
+- No mobile wallet support in V1
+- Limited API access in V1
+- Organizer branding limited in V1
+
+---
+
+## Technical Considerations
+- Stripe Connect integration
+- QR code validation system
+- Scalable backend for concurrent users
+- Email delivery infrastructure
+- Audit logging system
+- Data encryption (in transit and at rest)
+
+---
+
+## Security & Compliance
+- PCI-compliant payments via Stripe
+- No storage of raw card data
+- Fraud detection + risk scoring
+- Chargeback monitoring
+- Secure data handling and encryption
+
+---
+
+## User Experience
+
+### Organizer UX
+- Fast event creation flow
+- Clear dashboard
+- Transparent payout reporting
+- Easy refund management
+
+### Attendee UX
+- Simple discovery and registration
+- Mobile-friendly tickets
+- Clear refund process
+- Reliable notifications
+
+### Admin UX
+- Centralized dashboards
+- Risk monitoring tools
+- Efficient moderation workflows
+- Audit and compliance visibility
+
+## Approved Updates
+
+**Add to "Refund Processing & Dispute Resolution" section:**
+
+```
+### Refund Validation & Fraud Prevention
+- Refunds cannot be requested after event check-in (system blocks based on attendance record)
+- Organizers review refund requests with reason visibility
+- Duplicate refund requests flagged and blocked
+- Refunds requested within 24 hours of event trigger manual review
+- Admin can override organizer decision in dispute escalation
+- Fraud patterns (multiple refunds from same attendee) logged for risk scoring
+```
+
+**Add to "Payments & Pricing Model" section, after "Payout Method & Processing":**
+
+```
+### Payout Holds & Dispute Windows
+- Payouts held for 14 days post-event to allow chargeback windows
+- Payouts withheld if organizer has open disputes or fraud flags
+- Organizers can view hold status and expected release date in dashboard
+- Holds released automatically upon dispute resolution or window expiry
+- Minimum payout threshold applies; held amounts roll to next payout cycle
+```
+
+**Add new section "Event Moderation & Content Policy":**
+
+```
+## Event Moderation & Content Policy
+
+### Prohibited Event Categories
+- Illegal activities, weapons, counterfeit goods
+- Hate speech, discrimination, harassment
+- Deceptive or misleading events
+- High-risk financial products (unregistered securities, MLM)
+
+### Moderation Workflow
+- Automated flagging for keywords and risk signals
+- Manual review by admin within 24 hours of report
+- Organizer notification of removal with reason
+- Organizer appeal process (response within 5 business days)
+- Suspended organizers cannot create new events
+
+### Enforcement Actions
+- Warning (first violation)
+- Event removal (second violation)
+- Account suspension (third violation or severe violation)
+```
+
+
+## Approved Updates
+
+```
+## Organizer Suspension & Account Recovery
+
+### Suspension Types & Duration
+- **Temporary Suspension**: 30 days (policy violation, fraud investigation)
+- **Permanent Suspension**: Severe violations (illegal activity, repeated fraud, chargeback abuse)
+
+### Reinstatement Criteria (Temporary)
+- Organizer acknowledges violation and agrees to policy compliance
+- Any outstanding disputes resolved
+- Automatic reinstatement after 30 days if no new violations
+
+### Appeal Process
+- Organizer may appeal suspension within 14 days of notice
+- Admin review and decision within 5 business days
+- Decision is final; one appeal per suspension
+
+### Data & Payout Access During Suspension
+- Organizers retain read-only access to historical event data and attendee records
+- Payouts for events created before suspension are processed normally
+- New event creation blocked until suspension lifted
+
+---
+
+## Chargeback & Dispute Liability
+
+### Chargeback Fee Allocation
+- Platform absorbs chargeback fees (typically $15–$100 per dispute) for first chargeback per organizer per calendar year
+- Subsequent chargebacks in same year: organizer liable for 50% of chargeback fee
+- Organizers with 3+ chargebacks in 12 months flagged for suspension review
+
+### Dispute Response SLA
+- Admin initiates chargeback response within 24 hours of notification
+- Evidence gathering and submission to payment processor within 5 business days
+- Organizer notified of dispute status and outcome within 2 business days of processor decision
+
+### Organizer Liability Conditions
+- Organizer liable for full chargeback fee if: event was fraudulent, organizer failed to deliver tickets, or organizer refunded attendee outside platform (circumventing audit trail)
+- Liability waived if chargeback is determined to be attendee fraud (e.g., stolen card)
+
+---
+
+## Concurrent User Load & Failure Modes
+
+### Load Thresholds & Degradation
+- **0–400 concurrent users**: Full functionality, no degradation
+- **400–500 concurrent users**: Non-critical features (analytics, reporting) may experience 2–5 second
+
+
+## Approved Updates
+
+## Fraud Flag Definition & Payout Hold Criteria
+
+### Fraud Flag Triggers
+A fraud flag is assigned when an organizer exhibits patterns indicating elevated risk, including:
+- repeated chargebacks
+- abnormal refund behavior
+- attendee complaints or reports
+- payment processor risk signals
+- failed verification checks
+
+### System Behavior
+- Fraud flags trigger review of organizer activity and payouts
+- Payouts may be temporarily held during investigation
+- Admin review determines whether to release funds, escalate, or suspend account
+
+### Organizer Visibility
+- Organizers are notified when a fraud flag is assigned
+- Organizers can view general reason categories and respond if needed

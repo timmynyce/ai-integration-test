@@ -1,0 +1,21 @@
+Product Requirement Document
+
+Build a web-based event management platform for small organizations.
+
+The platform should allow organizers to:
+- create events
+- publish event pages
+- sell tickets online
+- track registrations
+- export attendee lists
+
+The platform should allow attendees to:
+- browse events
+- register online
+- receive confirmation emails
+
+The system should support Stripe payments and basic reporting.
+
+Admins should be able to manage events and see attendance trends.
+
+The first version should be simple, easy to use, and launch quickly.

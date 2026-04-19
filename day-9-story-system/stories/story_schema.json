@@ -1,0 +1,6 @@
+{
+ "actor": "string",
+ "feature": "string",
+ "story": "string",
+ "acceptance_criteria": ["string"]
+}

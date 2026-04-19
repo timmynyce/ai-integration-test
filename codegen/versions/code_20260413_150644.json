@@ -1,0 +1,614 @@
+[
+  {
+    "feature": "Event Creation & Management",
+    "story": "As an organizer, I want to use Event Creation & Management so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Create, edit, and publish event pages in under 10 minutes",
+    "source_acceptance_criterion": "System supports: Create, edit, and publish event pages in under 10 minutes",
+    "code": "def task_create_edit_and_publish_event_pages_in_under() -> dict:\n   \"\"\"\n   Task: Create, edit, and publish event pages in under 10 minutes\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Create, edit, and publish event pages in under 10 minutes\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Creation & Management",
+    "story": "As an organizer, I want to use Event Creation & Management so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Configure ticket types (free, paid, tiered) with capacity limits",
+    "source_acceptance_criterion": "System supports: Configure ticket types (free, paid, tiered) with capacity limits",
+    "code": "def task_configure_ticket_types_free_paid_tiered_with_capacity() -> dict:\n   \"\"\"\n   Task: Configure ticket types (free, paid, tiered) with capacity limits\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Configure ticket types (free, paid, tiered) with capacity limits\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Creation & Management",
+    "story": "As an organizer, I want to use Event Creation & Management so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "build management flow for waitlists and set refund policies",
+    "source_acceptance_criterion": "System supports: Manage waitlists and set refund policies",
+    "code": "def task_build_management_flow_for_waitlists_and_set_refund() -> dict:\n   \"\"\"\n   Task: build management flow for waitlists and set refund policies\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"build management flow for waitlists and set refund policies\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Creation & Management",
+    "story": "As an organizer, I want to use Event Creation & Management so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Customize registration forms",
+    "source_acceptance_criterion": "System supports: Customize registration forms",
+    "code": "def task_customize_registration_forms() -> dict:\n   \"\"\"\n   Task: Customize registration forms\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Customize registration forms\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Creation & Management",
+    "story": "As an organizer, I want to use Event Creation & Management so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Duplicate events",
+    "source_acceptance_criterion": "System supports: Duplicate events",
+    "code": "def task_duplicate_events() -> dict:\n   \"\"\"\n   Task: Duplicate events\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Duplicate events\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Creation & Management",
+    "story": "As an organizer, I want to use Event Creation & Management so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Export attendee lists",
+    "source_acceptance_criterion": "System supports: Export attendee lists",
+    "code": "def task_export_attendee_lists() -> dict:\n   \"\"\"\n   Task: Export attendee lists\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Export attendee lists\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Ticketing & Delivery",
+    "story": "As an attendee, I want to receive and access my ticket easily so that I can attend the event without confusion or delay",
+    "actor": "User",
+    "task_type": "backend",
+    "task": "Generate QR-based digital tickets",
+    "source_acceptance_criterion": "System supports: Generate QR-based digital tickets",
+    "code": "def task_generate_qr_based_digital_tickets() -> dict:\n   \"\"\"\n   Task: Generate QR-based digital tickets\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Generate QR-based digital tickets\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Ticketing & Delivery",
+    "story": "As an attendee, I want to receive and access my ticket easily so that I can attend the event without confusion or delay",
+    "actor": "User",
+    "task_type": "general",
+    "task": "Email ticket delivery with 99% SLA",
+    "source_acceptance_criterion": "System supports: Email ticket delivery with 99% SLA",
+    "code": "def task_email_ticket_delivery_with_99%_sla() -> dict:\n   \"\"\"\n   Task: Email ticket delivery with 99% SLA\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Email ticket delivery with 99% SLA\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Ticketing & Delivery",
+    "story": "As an attendee, I want to receive and access my ticket easily so that I can attend the event without confusion or delay",
+    "actor": "User",
+    "task_type": "frontend",
+    "task": "Mobile-friendly ticket access",
+    "source_acceptance_criterion": "System supports: Mobile-friendly ticket access",
+    "code": "def task_mobile_friendly_ticket_access(data: dict) -> dict:\n   \"\"\"\n   Task: Mobile-friendly ticket access\n   \"\"\"\n   return {\n       \"view_state\": \"ready\",\n       \"data\": data\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Ticketing & Delivery",
+    "story": "As an attendee, I want to receive and access my ticket easily so that I can attend the event without confusion or delay",
+    "actor": "User",
+    "task_type": "general",
+    "task": "Real-time check-in via QR scanning or manual entry",
+    "source_acceptance_criterion": "System supports: Real-time check-in via QR scanning or manual entry",
+    "code": "def task_real_time_check_in_via_qr_scanning_or() -> dict:\n   \"\"\"\n   Task: Real-time check-in via QR scanning or manual entry\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Real-time check-in via QR scanning or manual entry\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Ticketing & Delivery",
+    "story": "As an attendee, I want to receive and access my ticket easily so that I can attend the event without confusion or delay",
+    "actor": "User",
+    "task_type": "data",
+    "task": "Track attendance in real-time",
+    "source_acceptance_criterion": "System supports: Track attendance in real-time",
+    "code": "def task_track_attendance_in_real_time(record: dict) -> dict:\n   \"\"\"\n   Task: Track attendance in real-time\n   \"\"\"\n   stored_record = dict(record)\n   stored_record[\"processed\"] = True\n   return stored_record\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "integration",
+    "task": "Stripe Connect integration for payment acceptance",
+    "source_acceptance_criterion": "System supports: Stripe Connect integration for payment acceptance",
+    "code": "def task_stripe_connect_integration_for_payment_acceptance(payload: dict) -> dict:\n   \"\"\"\n   Task: Stripe Connect integration for payment acceptance\n   \"\"\"\n   response = {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Stripe Connect integration for payment acceptance\"\n   }\n   return response\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "general",
+    "task": "Apply 3% platform fee on ticket sales",
+    "source_acceptance_criterion": "System supports: Apply 3% platform fee on ticket sales",
+    "code": "def task_apply_3%_platform_fee_on_ticket_sales() -> dict:\n   \"\"\"\n   Task: Apply 3% platform fee on ticket sales\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Apply 3% platform fee on ticket sales\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "backend",
+    "task": "Process weekly bank transfers (ACH/SEPA/local equivalents)",
+    "source_acceptance_criterion": "System supports: Process weekly bank transfers (ACH/SEPA/local equivalents)",
+    "code": "def task_process_weekly_bank_transfers_ach_sepa_local_equivalents() -> dict:\n   \"\"\"\n   Task: Process weekly bank transfers (ACH/SEPA/local equivalents)\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Process weekly bank transfers (ACH/SEPA/local equivalents)\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "backend",
+    "task": "Hold payouts for 14 days post-event for chargeback windows",
+    "source_acceptance_criterion": "System supports: Hold payouts for 14 days post-event for chargeback windows",
+    "code": "def task_hold_payouts_for_14_days_post_event_for() -> dict:\n   \"\"\"\n   Task: Hold payouts for 14 days post-event for chargeback windows\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Hold payouts for 14 days post-event for chargeback windows\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "validation",
+    "task": "Enforce minimum payout threshold with rollover to next cycle",
+    "source_acceptance_criterion": "System supports: Enforce minimum payout threshold with rollover to next cycle",
+    "code": "def task_enforce_minimum_payout_threshold_with_rollover_to_next(input_data: dict) -> bool:\n   \"\"\"\n   Task: Enforce minimum payout threshold with rollover to next cycle\n   \"\"\"\n   if not isinstance(input_data, dict):\n       return False\n\n   return True\n",
+    "review": {
+      "valid": false,
+      "issues": [
+        "Validation logic may be too shallow"
+      ]
+    }
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "backend",
+    "task": "Withhold payouts if organizer has open disputes or fraud flags",
+    "source_acceptance_criterion": "System supports: Withhold payouts if organizer has open disputes or fraud flags",
+    "code": "def task_withhold_payouts_if_organizer_has_open_disputes_or() -> dict:\n   \"\"\"\n   Task: Withhold payouts if organizer has open disputes or fraud flags\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Withhold payouts if organizer has open disputes or fraud flags\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "frontend",
+    "task": "Build organizer capability to view payout status (pending, held, released) for each transaction",
+    "source_acceptance_criterion": "Organizer can view payout status (pending, held, released) for each transaction",
+    "code": "def task_build_organizer_capability_to_view_payout_status_pending(data: dict) -> dict:\n   \"\"\"\n   Task: Build organizer capability to view payout status (pending, held, released) for each transaction\n   \"\"\"\n   return {\n       \"view_state\": \"ready\",\n       \"data\": data\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "validation",
+    "task": "Implement rule to prevent payouts if organizer account has unresolved disputes or fraud flags",
+    "source_acceptance_criterion": "System prevents payouts if organizer account has unresolved disputes or fraud flags",
+    "code": "def task_implement_rule_to_prevent_payouts_if_organizer_account(input_data: dict) -> bool:\n   \"\"\"\n   Task: Implement rule to prevent payouts if organizer account has unresolved disputes or fraud flags\n   \"\"\"\n   if not isinstance(input_data, dict):\n       return False\n\n   return True\n",
+    "review": {
+      "valid": false,
+      "issues": [
+        "Validation logic may be too shallow"
+      ]
+    }
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "frontend",
+    "task": "Display expected payout release date based on hold rules",
+    "source_acceptance_criterion": "System displays expected payout release date based on hold rules",
+    "code": "def task_display_expected_payout_release_date_based_on_hold(data: dict) -> dict:\n   \"\"\"\n   Task: Display expected payout release date based on hold rules\n   \"\"\"\n   return {\n       \"view_state\": \"ready\",\n       \"data\": data\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Refund Processing & Dispute Resolution",
+    "story": "As an user, I want to use Refund Processing & Dispute Resolution so that I can achieve its intended outcome",
+    "actor": "User",
+    "task_type": "validation",
+    "task": "Block refund requests after event check-in based on attendance records",
+    "source_acceptance_criterion": "System supports: Block refund requests after event check-in based on attendance records",
+    "code": "def task_block_refund_requests_after_event_check_in_based(input_data: dict) -> bool:\n   \"\"\"\n   Task: Block refund requests after event check-in based on attendance records\n   \"\"\"\n   if not isinstance(input_data, dict):\n       return False\n\n   return True\n",
+    "review": {
+      "valid": false,
+      "issues": [
+        "Validation logic may be too shallow"
+      ]
+    }
+  },
+  {
+    "feature": "Refund Processing & Dispute Resolution",
+    "story": "As an user, I want to use Refund Processing & Dispute Resolution so that I can achieve its intended outcome",
+    "actor": "User",
+    "task_type": "backend",
+    "task": "Process refunds within 5-7 business days",
+    "source_acceptance_criterion": "System supports: Process refunds within 5-7 business days",
+    "code": "def task_process_refunds_within_5_7_business_days() -> dict:\n   \"\"\"\n   Task: Process refunds within 5-7 business days\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Process refunds within 5-7 business days\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Refund Processing & Dispute Resolution",
+    "story": "As an user, I want to use Refund Processing & Dispute Resolution so that I can achieve its intended outcome",
+    "actor": "User",
+    "task_type": "validation",
+    "task": "Flag and block duplicate refund requests",
+    "source_acceptance_criterion": "System supports: Flag and block duplicate refund requests",
+    "code": "def task_flag_and_block_duplicate_refund_requests(input_data: dict) -> bool:\n   \"\"\"\n   Task: Flag and block duplicate refund requests\n   \"\"\"\n   if not isinstance(input_data, dict):\n       return False\n\n   return True\n",
+    "review": {
+      "valid": false,
+      "issues": [
+        "Validation logic may be too shallow"
+      ]
+    }
+  },
+  {
+    "feature": "Refund Processing & Dispute Resolution",
+    "story": "As an user, I want to use Refund Processing & Dispute Resolution so that I can achieve its intended outcome",
+    "actor": "User",
+    "task_type": "frontend",
+    "task": "Trigger manual review for refunds requested within 24 hours of event",
+    "source_acceptance_criterion": "System supports: Trigger manual review for refunds requested within 24 hours of event",
+    "code": "def task_trigger_manual_review_for_refunds_requested_within_24(data: dict) -> dict:\n   \"\"\"\n   Task: Trigger manual review for refunds requested within 24 hours of event\n   \"\"\"\n   return {\n       \"view_state\": \"ready\",\n       \"data\": data\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Refund Processing & Dispute Resolution",
+    "story": "As an user, I want to use Refund Processing & Dispute Resolution so that I can achieve its intended outcome",
+    "actor": "User",
+    "task_type": "general",
+    "task": "Allow admin override of organizer decisions in dispute escalation",
+    "source_acceptance_criterion": "System supports: Allow admin override of organizer decisions in dispute escalation",
+    "code": "def task_allow_admin_override_of_organizer_decisions_in_dispute() -> dict:\n   \"\"\"\n   Task: Allow admin override of organizer decisions in dispute escalation\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Allow admin override of organizer decisions in dispute escalation\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Refund Processing & Dispute Resolution",
+    "story": "As an user, I want to use Refund Processing & Dispute Resolution so that I can achieve its intended outcome",
+    "actor": "User",
+    "task_type": "data",
+    "task": "Log fraud patterns for risk scoring",
+    "source_acceptance_criterion": "System supports: Log fraud patterns for risk scoring",
+    "code": "def task_log_fraud_patterns_for_risk_scoring(record: dict) -> dict:\n   \"\"\"\n   Task: Log fraud patterns for risk scoring\n   \"\"\"\n   stored_record = dict(record)\n   stored_record[\"processed\"] = True\n   return stored_record\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Discovery & Search",
+    "story": "As an organizer, I want to use Event Discovery & Search so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Public event listings with featured events section",
+    "source_acceptance_criterion": "System supports: Public event listings with featured events section",
+    "code": "def task_public_event_listings_with_featured_events_section() -> dict:\n   \"\"\"\n   Task: Public event listings with featured events section\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Public event listings with featured events section\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Discovery & Search",
+    "story": "As an organizer, I want to use Event Discovery & Search so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Search and filter by category, date, and location",
+    "source_acceptance_criterion": "System supports: Search and filter by category, date, and location",
+    "code": "def task_search_and_filter_by_category_date_and_location() -> dict:\n   \"\"\"\n   Task: Search and filter by category, date, and location\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Search and filter by category, date, and location\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Discovery & Search",
+    "story": "As an organizer, I want to use Event Discovery & Search so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Sort results by date and popularity",
+    "source_acceptance_criterion": "System supports: Sort results by date and popularity",
+    "code": "def task_sort_results_by_date_and_popularity() -> dict:\n   \"\"\"\n   Task: Sort results by date and popularity\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Sort results by date and popularity\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Discovery & Search",
+    "story": "As an organizer, I want to use Event Discovery & Search so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "backend",
+    "task": "Generate shareable event links",
+    "source_acceptance_criterion": "System supports: Generate shareable event links",
+    "code": "def task_generate_shareable_event_links() -> dict:\n   \"\"\"\n   Task: Generate shareable event links\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Generate shareable event links\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Discovery & Search",
+    "story": "As an organizer, I want to use Event Discovery & Search so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "implement support for up to 10,000 attendees per event",
+    "source_acceptance_criterion": "System supports: Support up to 10,000 attendees per event",
+    "code": "def task_implement_support_for_up_to_10_000_attendees() -> dict:\n   \"\"\"\n   Task: implement support for up to 10,000 attendees per event\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"implement support for up to 10,000 attendees per event\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Organizer Verification & Onboarding",
+    "story": "As an organizer, I want to use Organizer Verification & Onboarding so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Verify identity via government ID",
+    "source_acceptance_criterion": "System supports: Verify identity via government ID",
+    "code": "def task_verify_identity_via_government_id() -> dict:\n   \"\"\"\n   Task: Verify identity via government ID\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Verify identity via government ID\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Organizer Verification & Onboarding",
+    "story": "As an organizer, I want to use Organizer Verification & Onboarding so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Verify business registration documents",
+    "source_acceptance_criterion": "System supports: Verify business registration documents",
+    "code": "def task_verify_business_registration_documents() -> dict:\n   \"\"\"\n   Task: Verify business registration documents\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Verify business registration documents\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Organizer Verification & Onboarding",
+    "story": "As an organizer, I want to use Organizer Verification & Onboarding so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "validation",
+    "task": "Validate payment methods",
+    "source_acceptance_criterion": "System supports: Validate payment methods",
+    "code": "def task_validate_payment_methods(input_data: dict) -> bool:\n   \"\"\"\n   Task: Validate payment methods\n   \"\"\"\n   if not isinstance(input_data, dict):\n       return False\n\n   return True\n",
+    "review": {
+      "valid": false,
+      "issues": [
+        "Validation logic may be too shallow"
+      ]
+    }
+  },
+  {
+    "feature": "Organizer Verification & Onboarding",
+    "story": "As an organizer, I want to use Organizer Verification & Onboarding so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Perform risk scoring and approval workflow",
+    "source_acceptance_criterion": "System supports: Perform risk scoring and approval workflow",
+    "code": "def task_perform_risk_scoring_and_approval_workflow() -> dict:\n   \"\"\"\n   Task: Perform risk scoring and approval workflow\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Perform risk scoring and approval workflow\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Organizer Verification & Onboarding",
+    "story": "As an organizer, I want to use Organizer Verification & Onboarding so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "data",
+    "task": "Assign status: Pending, Approved, Suspended, or Rejected",
+    "source_acceptance_criterion": "System supports: Assign status: Pending, Approved, Suspended, or Rejected",
+    "code": "def task_assign_status_pending_approved_suspended_or_rejected(record: dict) -> dict:\n   \"\"\"\n   Task: Assign status: Pending, Approved, Suspended, or Rejected\n   \"\"\"\n   stored_record = dict(record)\n   stored_record[\"processed\"] = True\n   return stored_record\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Moderation & Content Policy",
+    "story": "As an organizer, I want to use Event Moderation & Content Policy so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Automatically flag prohibited categories (illegal activities, hate speech, deceptive events, high-risk financial products)",
+    "source_acceptance_criterion": "System supports: Automatically flag prohibited categories (illegal activities, hate speech, deceptive events, high-risk financial products)",
+    "code": "def task_automatically_flag_prohibited_categories_illegal_activities_hate_speech() -> dict:\n   \"\"\"\n   Task: Automatically flag prohibited categories (illegal activities, hate speech, deceptive events, high-risk financial products)\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Automatically flag prohibited categories (illegal activities, hate speech, deceptive events, high-risk financial products)\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Moderation & Content Policy",
+    "story": "As an organizer, I want to use Event Moderation & Content Policy so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "frontend",
+    "task": "Manually review flagged events within 24 hours",
+    "source_acceptance_criterion": "System supports: Manually review flagged events within 24 hours",
+    "code": "def task_manually_review_flagged_events_within_24_hours(data: dict) -> dict:\n   \"\"\"\n   Task: Manually review flagged events within 24 hours\n   \"\"\"\n   return {\n       \"view_state\": \"ready\",\n       \"data\": data\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Moderation & Content Policy",
+    "story": "As an organizer, I want to use Event Moderation & Content Policy so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Notify organizers of removal with reason",
+    "source_acceptance_criterion": "System supports: Notify organizers of removal with reason",
+    "code": "def task_notify_organizers_of_removal_with_reason() -> dict:\n   \"\"\"\n   Task: Notify organizers of removal with reason\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Notify organizers of removal with reason\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Moderation & Content Policy",
+    "story": "As an organizer, I want to use Event Moderation & Content Policy so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "backend",
+    "task": "Provide organizer appeal process with 5 business day response",
+    "source_acceptance_criterion": "System supports: Provide organizer appeal process with 5 business day response",
+    "code": "def task_provide_organizer_appeal_process_with_5_business_day() -> dict:\n   \"\"\"\n   Task: Provide organizer appeal process with 5 business day response\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Provide organizer appeal process with 5 business day response\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Event Moderation & Content Policy",
+    "story": "As an organizer, I want to use Event Moderation & Content Policy so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "validation",
+    "task": "Enforce escalating actions: warning, event removal, account suspension",
+    "source_acceptance_criterion": "System supports: Enforce escalating actions: warning, event removal, account suspension",
+    "code": "def task_enforce_escalating_actions_warning_event_removal_account_suspension(input_data: dict) -> bool:\n   \"\"\"\n   Task: Enforce escalating actions: warning, event removal, account suspension\n   \"\"\"\n   if not isinstance(input_data, dict):\n       return False\n\n   return True\n",
+    "review": {
+      "valid": false,
+      "issues": [
+        "Validation logic may be too shallow"
+      ]
+    }
+  },
+  {
+    "feature": "Organizer Suspension & Account Recovery",
+    "story": "As an organizer, I want to use Organizer Suspension & Account Recovery so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Implement temporary (30-day) and permanent suspension types",
+    "source_acceptance_criterion": "System supports: Implement temporary (30-day) and permanent suspension types",
+    "code": "def task_implement_temporary_30_day_and_permanent_suspension_types() -> dict:\n   \"\"\"\n   Task: Implement temporary (30-day) and permanent suspension types\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Implement temporary (30-day) and permanent suspension types\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Organizer Suspension & Account Recovery",
+    "story": "As an organizer, I want to use Organizer Suspension & Account Recovery so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "validation",
+    "task": "Require violation acknowledgment and policy compliance for reinstatement",
+    "source_acceptance_criterion": "System supports: Require violation acknowledgment and policy compliance for reinstatement",
+    "code": "def task_require_violation_acknowledgment_and_policy_compliance_for_reinstatement(input_data: dict) -> bool:\n   \"\"\"\n   Task: Require violation acknowledgment and policy compliance for reinstatement\n   \"\"\"\n   if not isinstance(input_data, dict):\n       return False\n\n   return True\n",
+    "review": {
+      "valid": false,
+      "issues": [
+        "Validation logic may be too shallow"
+      ]
+    }
+  },
+  {
+    "feature": "Organizer Suspension & Account Recovery",
+    "story": "As an organizer, I want to use Organizer Suspension & Account Recovery so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "frontend",
+    "task": "Provide appeal process within 14 days with 5 business day admin review",
+    "source_acceptance_criterion": "System supports: Provide appeal process within 14 days with 5 business day admin review",
+    "code": "def task_provide_appeal_process_within_14_days_with_5(data: dict) -> dict:\n   \"\"\"\n   Task: Provide appeal process within 14 days with 5 business day admin review\n   \"\"\"\n   return {\n       \"view_state\": \"ready\",\n       \"data\": data\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Organizer Suspension & Account Recovery",
+    "story": "As an organizer, I want to use Organizer Suspension & Account Recovery so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "data",
+    "task": "Maintain read-only access to historical data during suspension",
+    "source_acceptance_criterion": "System supports: Maintain read-only access to historical data during suspension",
+    "code": "def task_maintain_read_only_access_to_historical_data_during(record: dict) -> dict:\n   \"\"\"\n   Task: Maintain read-only access to historical data during suspension\n   \"\"\"\n   stored_record = dict(record)\n   stored_record[\"processed\"] = True\n   return stored_record\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  },
+  {
+    "feature": "Organizer Suspension & Account Recovery",
+    "story": "As an organizer, I want to use Organizer Suspension & Account Recovery so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "backend",
+    "task": "Process payouts for pre-suspension events normally",
+    "source_acceptance_criterion": "System supports: Process payouts for pre-suspension events normally",
+    "code": "def task_process_payouts_for_pre_suspension_events_normally() -> dict:\n   \"\"\"\n   Task: Process payouts for pre-suspension events normally\n   \"\"\"\n   return {\n       \"status\": \"implemented_stub\",\n       \"task\": \"Process payouts for pre-suspension events normally\"\n   }\n",
+    "review": {
+      "valid": true,
+      "issues": []
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+ "task": "string",
+ "integration_target": "string",
+ "input_valid": "boolean",
+ "input_issues": ["string"],
+ "output_valid": "boolean",
+ "output_issues": ["string"],
+ "allowed_to_proceed": "boolean",
+ "log_status": "string",
+ "timestamp": "string"
+}

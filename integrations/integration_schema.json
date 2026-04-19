@@ -1,0 +1,14 @@
+{
+ "feature": "string",
+ "story": "string",
+ "actor": "string",
+ "task_type": "string",
+ "task": "string",
+ "integration_target": "string",
+ "payload": "object",
+ "response_status": "integer",
+ "response_body": "object",
+ "response_valid": "boolean",
+ "response_issues": ["string"]
+}
+

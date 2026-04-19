@@ -1,0 +1,370 @@
+[
+  {
+    "feature": "Event Creation & Management",
+    "story": "As an organizer, I want to use Event Creation & Management so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Create, edit, and publish event pages in under 10 minutes",
+    "source_acceptance_criterion": "System supports: Create, edit, and publish event pages in under 10 minutes"
+  },
+  {
+    "feature": "Event Creation & Management",
+    "story": "As an organizer, I want to use Event Creation & Management so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Configure ticket types (free, paid, tiered) with capacity limits",
+    "source_acceptance_criterion": "System supports: Configure ticket types (free, paid, tiered) with capacity limits"
+  },
+  {
+    "feature": "Event Creation & Management",
+    "story": "As an organizer, I want to use Event Creation & Management so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "build management flow for waitlists and set refund policies",
+    "source_acceptance_criterion": "System supports: Manage waitlists and set refund policies"
+  },
+  {
+    "feature": "Event Creation & Management",
+    "story": "As an organizer, I want to use Event Creation & Management so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Build organizer form configuration logic for custom registration fields",
+    "source_acceptance_criterion": "System supports: Customize registration forms"
+  },
+  {
+    "feature": "Event Creation & Management",
+    "story": "As an organizer, I want to use Event Creation & Management so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Duplicate events",
+    "source_acceptance_criterion": "System supports: Duplicate events"
+  },
+  {
+    "feature": "Event Creation & Management",
+    "story": "As an organizer, I want to use Event Creation & Management so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Export attendee lists",
+    "source_acceptance_criterion": "System supports: Export attendee lists"
+  },
+  {
+    "feature": "Ticketing & Delivery",
+    "story": "As an attendee, I want to receive and access my ticket easily so that I can attend the event without confusion or delay",
+    "actor": "User",
+    "task_type": "backend",
+    "task": "Generate QR-based digital tickets",
+    "source_acceptance_criterion": "System supports: Generate QR-based digital tickets"
+  },
+  {
+    "feature": "Ticketing & Delivery",
+    "story": "As an attendee, I want to receive and access my ticket easily so that I can attend the event without confusion or delay",
+    "actor": "User",
+    "task_type": "general",
+    "task": "Email ticket delivery with 99% SLA",
+    "source_acceptance_criterion": "System supports: Email ticket delivery with 99% SLA"
+  },
+  {
+    "feature": "Ticketing & Delivery",
+    "story": "As an attendee, I want to receive and access my ticket easily so that I can attend the event without confusion or delay",
+    "actor": "User",
+    "task_type": "frontend",
+    "task": "Mobile-friendly ticket access",
+    "source_acceptance_criterion": "System supports: Mobile-friendly ticket access"
+  },
+  {
+    "feature": "Ticketing & Delivery",
+    "story": "As an attendee, I want to receive and access my ticket easily so that I can attend the event without confusion or delay",
+    "actor": "User",
+    "task_type": "general",
+    "task": "Real-time check-in via QR scanning or manual entry",
+    "source_acceptance_criterion": "System supports: Real-time check-in via QR scanning or manual entry"
+  },
+  {
+    "feature": "Ticketing & Delivery",
+    "story": "As an attendee, I want to receive and access my ticket easily so that I can attend the event without confusion or delay",
+    "actor": "User",
+    "task_type": "data",
+    "task": "Track attendance in real-time",
+    "source_acceptance_criterion": "System supports: Track attendance in real-time"
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "integration",
+    "task": "Stripe Connect integration for payment acceptance",
+    "source_acceptance_criterion": "System supports: Stripe Connect integration for payment acceptance"
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "general",
+    "task": "Apply 3% platform fee on ticket sales",
+    "source_acceptance_criterion": "System supports: Apply 3% platform fee on ticket sales"
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "backend",
+    "task": "Process weekly bank transfers (ACH/SEPA/local equivalents)",
+    "source_acceptance_criterion": "System supports: Process weekly bank transfers (ACH/SEPA/local equivalents)"
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "backend",
+    "task": "Hold payouts for 14 days post-event for chargeback windows",
+    "source_acceptance_criterion": "System supports: Hold payouts for 14 days post-event for chargeback windows"
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "validation",
+    "task": "Enforce minimum payout threshold with rollover to next cycle",
+    "source_acceptance_criterion": "System supports: Enforce minimum payout threshold with rollover to next cycle"
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "backend",
+    "task": "Withhold payouts if organizer has open disputes or fraud flags",
+    "source_acceptance_criterion": "System supports: Withhold payouts if organizer has open disputes or fraud flags"
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "frontend",
+    "task": "Build organizer capability to view payout status (pending, held, released) for each transaction",
+    "source_acceptance_criterion": "Organizer can view payout status (pending, held, released) for each transaction"
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "validation",
+    "task": "Implement rule to prevent payouts if organizer account has unresolved disputes or fraud flags",
+    "source_acceptance_criterion": "System prevents payouts if organizer account has unresolved disputes or fraud flags"
+  },
+  {
+    "feature": "Payment Processing & Payouts",
+    "story": "As an organizer, I want payments and payouts to be processed reliably so that I can collect revenue and understand when funds will be released",
+    "actor": "User",
+    "task_type": "frontend",
+    "task": "Display expected payout release date based on hold rules",
+    "source_acceptance_criterion": "System displays expected payout release date based on hold rules"
+  },
+  {
+    "feature": "Refund Processing & Dispute Resolution",
+    "story": "As an user, I want to use Refund Processing & Dispute Resolution so that I can achieve its intended outcome",
+    "actor": "User",
+    "task_type": "validation",
+    "task": "Block refund requests after event check-in based on attendance records",
+    "source_acceptance_criterion": "System supports: Block refund requests after event check-in based on attendance records"
+  },
+  {
+    "feature": "Refund Processing & Dispute Resolution",
+    "story": "As an user, I want to use Refund Processing & Dispute Resolution so that I can achieve its intended outcome",
+    "actor": "User",
+    "task_type": "backend",
+    "task": "Process refunds within 5-7 business days",
+    "source_acceptance_criterion": "System supports: Process refunds within 5-7 business days"
+  },
+  {
+    "feature": "Refund Processing & Dispute Resolution",
+    "story": "As an user, I want to use Refund Processing & Dispute Resolution so that I can achieve its intended outcome",
+    "actor": "User",
+    "task_type": "validation",
+    "task": "Flag and block duplicate refund requests",
+    "source_acceptance_criterion": "System supports: Flag and block duplicate refund requests"
+  },
+  {
+    "feature": "Refund Processing & Dispute Resolution",
+    "story": "As an user, I want to use Refund Processing & Dispute Resolution so that I can achieve its intended outcome",
+    "actor": "User",
+    "task_type": "frontend",
+    "task": "Trigger manual review for refunds requested within 24 hours of event",
+    "source_acceptance_criterion": "System supports: Trigger manual review for refunds requested within 24 hours of event"
+  },
+  {
+    "feature": "Refund Processing & Dispute Resolution",
+    "story": "As an user, I want to use Refund Processing & Dispute Resolution so that I can achieve its intended outcome",
+    "actor": "User",
+    "task_type": "general",
+    "task": "Allow admin override of organizer decisions in dispute escalation",
+    "source_acceptance_criterion": "System supports: Allow admin override of organizer decisions in dispute escalation"
+  },
+  {
+    "feature": "Refund Processing & Dispute Resolution",
+    "story": "As an user, I want to use Refund Processing & Dispute Resolution so that I can achieve its intended outcome",
+    "actor": "User",
+    "task_type": "data",
+    "task": "Log fraud patterns for risk scoring",
+    "source_acceptance_criterion": "System supports: Log fraud patterns for risk scoring"
+  },
+  {
+    "feature": "Event Discovery & Search",
+    "story": "As an organizer, I want to use Event Discovery & Search so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Public event listings with featured events section",
+    "source_acceptance_criterion": "System supports: Public event listings with featured events section"
+  },
+  {
+    "feature": "Event Discovery & Search",
+    "story": "As an organizer, I want to use Event Discovery & Search so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Search and filter by category, date, and location",
+    "source_acceptance_criterion": "System supports: Search and filter by category, date, and location"
+  },
+  {
+    "feature": "Event Discovery & Search",
+    "story": "As an organizer, I want to use Event Discovery & Search so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Sort results by date and popularity",
+    "source_acceptance_criterion": "System supports: Sort results by date and popularity"
+  },
+  {
+    "feature": "Event Discovery & Search",
+    "story": "As an organizer, I want to use Event Discovery & Search so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "backend",
+    "task": "Implement unique public event URL generation for each published event",
+    "source_acceptance_criterion": "System supports: Generate shareable event links"
+  },
+  {
+    "feature": "Event Discovery & Search",
+    "story": "As an organizer, I want to use Event Discovery & Search so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "implement support for up to 10,000 attendees per event",
+    "source_acceptance_criterion": "System supports: Support up to 10,000 attendees per event"
+  },
+  {
+    "feature": "Organizer Verification & Onboarding",
+    "story": "As an organizer, I want to use Organizer Verification & Onboarding so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Verify identity via government ID",
+    "source_acceptance_criterion": "System supports: Verify identity via government ID"
+  },
+  {
+    "feature": "Organizer Verification & Onboarding",
+    "story": "As an organizer, I want to use Organizer Verification & Onboarding so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Verify business registration documents",
+    "source_acceptance_criterion": "System supports: Verify business registration documents"
+  },
+  {
+    "feature": "Organizer Verification & Onboarding",
+    "story": "As an organizer, I want to use Organizer Verification & Onboarding so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "validation",
+    "task": "Validate payment methods",
+    "source_acceptance_criterion": "System supports: Validate payment methods"
+  },
+  {
+    "feature": "Organizer Verification & Onboarding",
+    "story": "As an organizer, I want to use Organizer Verification & Onboarding so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Perform risk scoring and approval workflow",
+    "source_acceptance_criterion": "System supports: Perform risk scoring and approval workflow"
+  },
+  {
+    "feature": "Organizer Verification & Onboarding",
+    "story": "As an organizer, I want to use Organizer Verification & Onboarding so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "data",
+    "task": "Assign status: Pending, Approved, Suspended, or Rejected",
+    "source_acceptance_criterion": "System supports: Assign status: Pending, Approved, Suspended, or Rejected"
+  },
+  {
+    "feature": "Event Moderation & Content Policy",
+    "story": "As an organizer, I want to use Event Moderation & Content Policy so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Automatically flag prohibited categories (illegal activities, hate speech, deceptive events, high-risk financial products)",
+    "source_acceptance_criterion": "System supports: Automatically flag prohibited categories (illegal activities, hate speech, deceptive events, high-risk financial products)"
+  },
+  {
+    "feature": "Event Moderation & Content Policy",
+    "story": "As an organizer, I want to use Event Moderation & Content Policy so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "frontend",
+    "task": "Manually review flagged events within 24 hours",
+    "source_acceptance_criterion": "System supports: Manually review flagged events within 24 hours"
+  },
+  {
+    "feature": "Event Moderation & Content Policy",
+    "story": "As an organizer, I want to use Event Moderation & Content Policy so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Notify organizers of removal with reason",
+    "source_acceptance_criterion": "System supports: Notify organizers of removal with reason"
+  },
+  {
+    "feature": "Event Moderation & Content Policy",
+    "story": "As an organizer, I want to use Event Moderation & Content Policy so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "backend",
+    "task": "Provide organizer appeal process with 5 business day response",
+    "source_acceptance_criterion": "System supports: Provide organizer appeal process with 5 business day response"
+  },
+  {
+    "feature": "Event Moderation & Content Policy",
+    "story": "As an organizer, I want to use Event Moderation & Content Policy so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "validation",
+    "task": "Enforce escalating actions: warning, event removal, account suspension",
+    "source_acceptance_criterion": "System supports: Enforce escalating actions: warning, event removal, account suspension"
+  },
+  {
+    "feature": "Organizer Suspension & Account Recovery",
+    "story": "As an organizer, I want to use Organizer Suspension & Account Recovery so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "general",
+    "task": "Implement temporary (30-day) and permanent suspension types",
+    "source_acceptance_criterion": "System supports: Implement temporary (30-day) and permanent suspension types"
+  },
+  {
+    "feature": "Organizer Suspension & Account Recovery",
+    "story": "As an organizer, I want to use Organizer Suspension & Account Recovery so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "validation",
+    "task": "Require violation acknowledgment and policy compliance for reinstatement",
+    "source_acceptance_criterion": "System supports: Require violation acknowledgment and policy compliance for reinstatement"
+  },
+  {
+    "feature": "Organizer Suspension & Account Recovery",
+    "story": "As an organizer, I want to use Organizer Suspension & Account Recovery so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "frontend",
+    "task": "Provide appeal process within 14 days with 5 business day admin review",
+    "source_acceptance_criterion": "System supports: Provide appeal process within 14 days with 5 business day admin review"
+  },
+  {
+    "feature": "Organizer Suspension & Account Recovery",
+    "story": "As an organizer, I want to use Organizer Suspension & Account Recovery so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "data",
+    "task": "Maintain read-only access to historical data during suspension",
+    "source_acceptance_criterion": "System supports: Maintain read-only access to historical data during suspension"
+  },
+  {
+    "feature": "Organizer Suspension & Account Recovery",
+    "story": "As an organizer, I want to use Organizer Suspension & Account Recovery so that I can achieve its intended outcome",
+    "actor": "Organizer",
+    "task_type": "backend",
+    "task": "Process payouts for pre-suspension events normally",
+    "source_acceptance_criterion": "System supports: Process payouts for pre-suspension events normally"
+  }
+]

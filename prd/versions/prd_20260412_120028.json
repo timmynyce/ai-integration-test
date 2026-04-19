@@ -1,0 +1,124 @@
+{
+  "product_name": "EventFlow",
+  "user_types": [
+    "Small businesses",
+    "Nonprofits",
+    "Community organizations",
+    "Event managers at SMBs",
+    "Attendees",
+    "Platform admins"
+  ],
+  "features": [
+    {
+      "name": "Event Creation & Management",
+      "requirements": [
+        "Create, edit, and publish event pages in under 10 minutes",
+        "Configure ticket types (free, paid, tiered) with capacity limits",
+        "Manage waitlists and set refund policies",
+        "Customize registration forms",
+        "Duplicate events",
+        "Export attendee lists"
+      ]
+    },
+    {
+      "name": "Ticketing & Delivery",
+      "requirements": [
+        "Generate QR-based digital tickets",
+        "Email ticket delivery with 99% SLA",
+        "Mobile-friendly ticket access",
+        "Real-time check-in via QR scanning or manual entry",
+        "Track attendance in real-time"
+      ]
+    },
+    {
+      "name": "Payment Processing & Payouts",
+      "requirements": [
+        "Stripe Connect integration for payment acceptance",
+        "Apply 3% platform fee on ticket sales",
+        "Process weekly bank transfers (ACH/SEPA/local equivalents)",
+        "Hold payouts for 14 days post-event for chargeback windows",
+        "Enforce minimum payout threshold with rollover to next cycle",
+        "Withhold payouts if organizer has open disputes or fraud flags"
+      ]
+    },
+    {
+      "name": "Refund Processing & Dispute Resolution",
+      "requirements": [
+        "Block refund requests after event check-in based on attendance records",
+        "Process refunds within 5-7 business days",
+        "Flag and block duplicate refund requests",
+        "Trigger manual review for refunds requested within 24 hours of event",
+        "Allow admin override of organizer decisions in dispute escalation",
+        "Log fraud patterns for risk scoring"
+      ]
+    },
+    {
+      "name": "Event Discovery & Search",
+      "requirements": [
+        "Public event listings with featured events section",
+        "Search and filter by category, date, and location",
+        "Sort results by date and popularity",
+        "Generate shareable event links",
+        "Support up to 10,000 attendees per event"
+      ]
+    },
+    {
+      "name": "Organizer Verification & Onboarding",
+      "requirements": [
+        "Verify identity via government ID",
+        "Verify business registration documents",
+        "Validate payment methods",
+        "Perform risk scoring and approval workflow",
+        "Assign status: Pending, Approved, Suspended, or Rejected"
+      ]
+    },
+    {
+      "name": "Event Moderation & Content Policy",
+      "requirements": [
+        "Automatically flag prohibited categories (illegal activities, hate speech, deceptive events, high-risk financial products)",
+        "Manually review flagged events within 24 hours",
+        "Notify organizers of removal with reason",
+        "Provide organizer appeal process with 5 business day response",
+        "Enforce escalating actions: warning, event removal, account suspension"
+      ]
+    },
+    {
+      "name": "Organizer Suspension & Account Recovery",
+      "requirements": [
+        "Implement temporary (30-day) and permanent suspension types",
+        "Require violation acknowledgment and policy compliance for reinstatement",
+        "Provide appeal process within 14 days with 5 business day admin review",
+        "Maintain read-only access to historical data during suspension",
+        "Process payouts for pre-suspension events normally"
+      ]
+    }
+  ],
+  "success_metrics": [
+    "Ticket conversion rate improvement of 20%",
+    "Event creation completion rate of 80% within 10 minutes",
+    "Platform supports 10,000 attendees per event",
+    "Concurrent capacity of 500+ users per event",
+    "Monthly active organizers",
+    "Payment success rate",
+    "Organizer retention rate",
+    "Email delivery SLA of 99%"
+  ],
+  "constraints": [
+    "No mobile wallet support in V1",
+    "Limited API access in V1",
+    "Organizer branding limited in V1",
+    "Non-critical features may degrade at 400-500 concurrent users",
+    "Data retained for 7 years for compliance",
+    "Payouts held for 14 days post-event for chargeback windows"
+  ],
+  "edge_cases": [
+    "Refund requests within 24 hours of event trigger manual review",
+    "Duplicate refund requests are flagged and blocked",
+    "Refunds cannot be requested after event check-in",
+    "Organizers with 3+ chargebacks in 12 months flagged for suspension review",
+    "Fraud flags trigger payout holds during investigation",
+    "Failed payouts trigger notifications and automatic retries",
+    "Chargeback fee allocation: platform absorbs first chargeback per organizer per year, organizer liable for 50% of subsequent chargebacks",
+    "Organizer liable for full chargeback fee if event was fraudulent or organizer refunded outside platform"
+  ]
+}

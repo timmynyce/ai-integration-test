@@ -1,0 +1,13 @@
+{
+ "product_name": "string",
+ "user_types": ["string"],
+ "features": [
+   {
+     "name": "string",
+     "requirements": ["string"]
+   }
+ ],
+ "success_metrics": ["string"],
+ "constraints": ["string"],
+ "edge_cases": ["string"]
+}

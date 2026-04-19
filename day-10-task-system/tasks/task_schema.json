@@ -1,0 +1,8 @@
+{
+ "feature": "string",
+ "story": "string",
+ "actor": "string",
+ "task_type": "string",
+ "task": "string",
+ "source_acceptance_criterion": "string"
+}
