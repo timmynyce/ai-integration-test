@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-04-20T13:44:01.760074",
+  "stories_count": 8,
+  "tasks_count": 46,
+  "code_count": 46,
+  "tests_count": 92,
+  "integration_count": 46,
+  "governance_count": 46,
+  "governance_allowed_count": 46,
+  "governance_blocked_count": 0,
+  "sample_story_titles": [
+    "Event Creation & Management",
+    "Ticketing & Delivery",
+    "Payment Processing & Payouts",
+    "Refund Processing & Dispute Resolution",
+    "Event Discovery & Search"
+  ],
+  "sample_tasks": [
+    "Create, edit, and publish event pages in under 10 minutes",
+    "Configure ticket types (free, paid, tiered) with capacity limits",
+    "build management flow for waitlists and set refund policies",
+    "Customize registration forms",
+    "Duplicate events"
+  ],
+  "sample_integration_targets": [
+    "https://api.github.com/repos/timmynyce/ai-integration-test/issues",
+    "https://api.github.com/repos/timmynyce/ai-integration-test/issues",
+    "https://api.github.com/repos/timmynyce/ai-integration-test/issues",
+    "https://api.github.com/repos/timmynyce/ai-integration-test/issues",
+    "https://api.github.com/repos/timmynyce/ai-integration-test/issues"
+  ],
+  "sample_governance_issues": []
+}

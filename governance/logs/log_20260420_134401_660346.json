@@ -1,0 +1,11 @@
+{
+  "task": "Build organizer capability to view payout status (pending, held, released) for each transaction",
+  "integration_target": "https://api.github.com/repos/timmynyce/ai-integration-test/issues",
+  "input_valid": true,
+  "input_issues": [],
+  "output_valid": true,
+  "output_issues": [],
+  "allowed_to_proceed": true,
+  "log_status": "logged",
+  "timestamp": "2026-04-20T13:44:01.660173"
+}

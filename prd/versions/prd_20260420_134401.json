@@ -1,0 +1,126 @@
+{
+  "product_name": "EventFlow",
+  "user_types": [
+    "Small businesses",
+    "Nonprofits",
+    "Community organizations",
+    "Event managers at SMBs",
+    "Attendees",
+    "Platform admins"
+  ],
+  "features": [
+    {
+      "name": "Event Creation & Management",
+      "requirements": [
+        "Create, edit, and publish event pages in under 10 minutes",
+        "Configure ticket types (free, paid, tiered)",
+        "Set capacity limits and manage waitlists",
+        "Customize registration forms",
+        "Duplicate events",
+        "Export attendee lists"
+      ]
+    },
+    {
+      "name": "Ticketing & Delivery",
+      "requirements": [
+        "QR-based digital tickets",
+        "Email delivery with 99% SLA",
+        "Mobile-friendly ticket access",
+        "Real-time ticket tracking",
+        "Support up to 10,000 attendees per event",
+        "Handle 500+ concurrent users"
+      ]
+    },
+    {
+      "name": "Payment Processing & Payouts",
+      "requirements": [
+        "Stripe Connect integration for payment acceptance",
+        "3% platform fee on ticket value",
+        "Weekly bank transfers (ACH/SEPA/local equivalents)",
+        "Verification required before payouts",
+        "14-day payout hold post-event for chargeback windows",
+        "Minimum payout threshold enforcement"
+      ]
+    },
+    {
+      "name": "Refund Processing & Dispute Resolution",
+      "requirements": [
+        "5-7 business day refund SLA",
+        "Organizer-controlled approval workflow with reason visibility",
+        "Block refunds after event check-in based on attendance records",
+        "Flag and block duplicate refund requests",
+        "Manual review for refunds within 24 hours of event",
+        "Admin escalation and override capability"
+      ]
+    },
+    {
+      "name": "Organizer Verification & Onboarding",
+      "requirements": [
+        "Identity verification via government ID",
+        "Business verification with registration documents",
+        "Payment method validation",
+        "Risk scoring and approval workflow",
+        "Status tracking (Pending/Approved/Suspended/Rejected)",
+        "Fraud flag assignment and notification"
+      ]
+    },
+    {
+      "name": "Event Discovery & Search",
+      "requirements": [
+        "Public event listings and featured events",
+        "Search and filtering by category, date, location",
+        "Sorting by date and popularity",
+        "Shareable event links",
+        "Real-time event availability updates"
+      ]
+    },
+    {
+      "name": "Check-in & Attendance Tracking",
+      "requirements": [
+        "QR code scanning for check-in",
+        "Manual check-in option",
+        "Real-time attendance tracking",
+        "Integration with refund eligibility validation"
+      ]
+    },
+    {
+      "name": "Admin Moderation & Compliance",
+      "requirements": [
+        "Platform-wide event management and content moderation",
+        "Automated flagging for prohibited categories and risk signals",
+        "Manual review within 24 hours of report",
+        "Organizer suspension (temporary 30 days or permanent) with appeal process",
+        "Chargeback monitoring and dispute response within 24 hours",
+        "Audit logs and GDPR/CCPA compliance tracking"
+      ]
+    }
+  ],
+  "success_metrics": [
+    "Ticket conversion rate improvement of 20%",
+    "Event creation completion rate of 80% within 10 minutes",
+    "Platform supports 10,000 attendees per event",
+    "Concurrent capacity of 500+ users per event",
+    "Payment success rate",
+    "Organizer retention rate",
+    "Monthly active organizers",
+    "Total revenue processed"
+  ],
+  "constraints": [
+    "No mobile wallet support in V1",
+    "Limited API access in V1",
+    "Organizer branding limited in V1",
+    "Data retained for 7 years for compliance",
+    "Data deletion within 30 days (with legal exceptions)",
+    "Non-critical features may degrade at 400-500 concurrent users"
+  ],
+  "edge_cases": [
+    "Refund requests within 24 hours of event trigger manual review",
+    "Duplicate refund requests are flagged and blocked",
+    "Refunds cannot be requested after event check-in",
+    "Organizers with 3+ chargebacks in 12 months flagged for suspension review",
+    "Payouts withheld if organizer has open disputes or fraud flags",
+    "Failed payouts trigger notifications and retries",
+    "Fraud patterns from multiple refunds by same attendee logged for risk scoring",
+    "Organizers retain read-only access to data during temporary suspension"
+  ]
+}
